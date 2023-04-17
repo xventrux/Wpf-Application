@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYBFb2r686ZN5RudWnRUtX0lcSUmHwa0DBLc3tUYsHOtnRKJljMCEZzFAVlCnctjYqkWuVm8/u+C9QW2Cg9+RA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Vyacheslav\\Desktop\\Папки\\Slava\\Учеба\\Учебные проекты\\WpfApplication\\WpfApplication\\WpfApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+﻿<Application x:Class="WpfApplication.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:WPF.MVVM.ViewModels;assembly=WPF.MVVM"
+             xmlns:local="clr-namespace:WpfApplication" 
+             xmlns:view="clr-namespace:WPF.MVVM.Views;assembly=WPF.MVVM">
+    <Application.Resources>
+        
+        <DataTemplate DataType="{x:Type TypeName=vm:HomeViewModel}">
+            <view:HomePage/>
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type TypeName=vm:AdditionalViewModel}">
+            <view:AdditionalPage/>
+        </DataTemplate>
+        
+    </Application.Resources>
+</Application>
